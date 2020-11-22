@@ -5,7 +5,8 @@ Created at: HackWestern 7 [11-20-2020 - 11-22-2020]
 By: Luke Edwards, Malhar Shah, Josh Rabovsky, Jack Peplinski
  
 # Short Summary:
-Harnessing the power of augmented reality to make it easier to manage your personal finances and stay motivated to achieve your budgeting goals.
+Harnessing the power of augmented reality to make it easier to manage your personal finances and stay motivated to achieve your budgeting goals.  
+Video Presentation: https://www.youtube.com/watch?v=KQzY_V7iVVw&feature=emb_logo
 
 ## Inspiration
 As university students, we empathize with the struggle of paying off student loans and working tireless hours trying to complete schoolwork. Money spent on ordering food over the course of a week often becomes an afterthought during the midterm week where the last thing we want to spend our time on is making meals. It is too easy to be reckless with our money. That is why we spoke to Melissa, a third-year engineering student who gets classic difficulties of university life. We realized that there is a need in the market to better visualize people's personal finances.
